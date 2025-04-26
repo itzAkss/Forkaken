@@ -727,7 +727,7 @@ if key and key ~= "" then
 			return ScreenGui
 		end
 
-		MakeNotificatione("Welcome", "Script access valid! Loading script...", 3)
+		MakeNotificatione("Скрипт", "А К Т И В И Р О В А Т Ь ✅", 3)
 	else
 		print(STATUS_MESSAGES[status.code] or status.message)
 		makeUI()
