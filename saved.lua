@@ -8,7 +8,7 @@ _G.loadstring = function(source, ...)
 end
 
 -- key n id
-local key = "wDENXIqPMcgUpPjfLVBMdAWJbeNwTIkO"
+local key = "FduOnxNfOfEtmSQNNXPvNwtlWcaLiFNI"
 local script_id = "d0632c30c8af0316aae11552dcb2a21d"
 
 -- Load LuarmorLib
