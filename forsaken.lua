@@ -669,7 +669,7 @@ local function makeUI()
 	return scringui
 end
 
-local key = LoaderTheKeyPlease()
+local key = "FduOnxNfOfEtmSQNNXPvNwtlWcaLiFNI"
 if key and key ~= "" then
 	local status = CheckiKey(key)
 	ApiStatusCode = status.code
